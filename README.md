@@ -16,7 +16,8 @@ O dashboard está dividido em páginas, cada uma com um foco analítico específ
     * KPIs principais: Faturamento Total, Volume de Vendas e Quilometragem Média.
     * Análise da evolução das vendas e faturamento ao longo dos anos (2010-2024).
     * Ranking de performance de vendas por modelo de veículo.
-![Dashboard Página 1](<img width="1507" height="843" alt="image" src="https://github.com/user-attachments/assets/e89efc09-dfc6-434b-b2b4-7809283bb528" />
+
+![Dashboard Página 1]<img width="1480" height="831" alt="image" src="https://github.com/user-attachments/assets/a1f8baa6-7383-4f56-9ca4-e81da8f58006" />
 )
 
 * **👥 Análise de Preferências do Cliente:**
@@ -28,9 +29,8 @@ O dashboard está dividido em páginas, cada uma com um foco analítico específ
     * Mapa interativo mostrando o desempenho de vendas por região.
     * Análise de desconto médio aplicado por modelo, identificando potenciais impactos na margem de lucro.
 
-![Dashboard Página 2](<img width="1464" height="814" alt="image" src="https://github.com/user-attachments/assets/4875650a-c503-4fc2-9e6f-8e9b2c1d4503" />
+![Dashboard Página 2](<img width="1469" height="835" alt="image" src="https://github.com/user-attachments/assets/f38d6d4f-3a9e-4a63-a5b6-3a77e87c35f6" />
 )
-
 ---
 
 ## 🛠️ Ferramentas Utilizadas
