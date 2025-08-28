@@ -29,8 +29,9 @@ O dashboard está dividido em páginas, cada uma com um foco analítico específ
     * Mapa interativo mostrando o desempenho de vendas por região.
     * Análise de desconto médio aplicado por modelo, identificando potenciais impactos na margem de lucro.
 
-![Dashboard Página 2](<img width="1469" height="835" alt="image" src="https://github.com/user-attachments/assets/f38d6d4f-3a9e-4a63-a5b6-3a77e87c35f6" />
-)
+![Dashboard Página 2] <img width="1482" height="823" alt="image" src="https://github.com/user-attachments/assets/30ac1090-a20c-4330-b4e3-977a7392b07a" />
+
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
